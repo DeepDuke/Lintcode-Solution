@@ -1,4 +1,5 @@
-/*STL的sort()函数可以过，归并排序过不了，快速排序可以过
+/*
+STL的sort()函数可以过，归并排序过不了，快速排序可以过
 */
 class Solution {
 public:

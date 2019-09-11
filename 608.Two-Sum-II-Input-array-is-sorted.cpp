@@ -1,3 +1,6 @@
+/*
+Type: two pointers
+*/
 class Solution {
 public:
     /**
